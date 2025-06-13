@@ -200,6 +200,11 @@
     - name: Hypothyroidism
       subjects:
       - PHRM2101
+      los: 
+      - Describe the pathophysiology of hypothyroidism, iuncluding underlying causes.
+      - Recongnise symptoms of hypothyroidism
+      - Interpret common thyroid function tests (TFTs) 
+      - Identify MOA of levothyroxine, dosing strategies and factors affecting absorption, such as food, calcium, iron, and other medications.
   
   - tier: 2
     conditions:
@@ -207,10 +212,27 @@
     - name: Adrenal gland disorders
       subjects:
       - PHRM2101
+      los:
+      - Describe the common presentations and differences between underactive (adrenal insufficiency) and overactive adrenal gland (adrenal excess), including drug-induced disorders
+      - Evaluate treatment options for Addison's Disease and Cushing's syndrome 
+      - Counsel patients on corticosteroid replacement therapy, including dosing calculations and sick-day management.
+      - Support consumers to safely and effectively use corticosteroids for both short term and long term use.
+        - (i don't know if this fits here?)
+        
     
     - name: Diabetes, type 1 (including latent autoimmune diabetes)
       subjects:
       - PHRM2101
+      los:
+      - Describe pathophysiology and presentation of type 1 diabetes
+      - Differentiate between Type 1 and Type 2 Diabetes Mellitus, including onset, clinical presentation, and treatment approaches.
+      - Interpret blood glucose and HbA1c results to assess glycaemic control  
+      - Identify treatment goals 
+      - Compare types of insulin preparations (e.g. short acting vs long acting) and different insulin regimens (basal-bolus, continuous infusion etc) and their role in management.
+      - Counsel patients on insulin administration and blood glucose monitoring
+      - Identify  considerations for management in certain populations (children, older adults). 
+      - Recognise acute complications of type 1 diabetes, e.g. hypoglycaemia and DKA
+      - Evaluate non-pharmacotherapuetic management strategies for patients with type 1 Diabetes
     
     - name: Gender-affirming therapy
     
@@ -221,7 +243,12 @@
     - name: Hyperthyroidism
       subjects:
       - PHRM2101
-    
+     los:
+      - Describe the pathophysiology of hyperthyroidism, iuncluding underlying causes.
+      - Recongnise symptoms of hyperthyroidism compared to hypothyroidism
+      - Interpret common thyroid function tests (TFTs) 
+      - Evaluate pharmacotherapeutic management of hyperthyroidism, including MOA, dosing strategies and adverse effects (carbimazole, PTU) 
+     
     - name: Male hypogonadism
   
   - tier: 3
